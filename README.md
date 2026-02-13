@@ -1,5 +1,5 @@
 # AGTC-QB64
-## Antenna G/T Calculator written in QB64
+## Antenna G/T Calculator
 
 ### Origin
 Look at <https://www.dg7ybn.de/Ant_soft/Antenna_GT_f5fod.htm> for further explanations and to get access to the corresponding .bas and .exe files.
