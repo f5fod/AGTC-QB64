@@ -18,6 +18,10 @@ Run the executable.
 
 You will obtain the G/T ratio of your antenna.
 
+### License CC BY-NC 4.0
+This license CC BY-NC enables reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator.
+Full text in the LICENSE file.
+
 ### Reference articles, written by F5FOD with DG7YBN
 
 **Part 1:** An Antenna G/T calculator (*AGTC_lite*) without mathematical rotation calculations, DUBUS, 1/2017
