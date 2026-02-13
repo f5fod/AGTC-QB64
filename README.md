@@ -12,9 +12,9 @@ If you need to recompile the source file, prefer QB64 **32 bits** as QB64 64 bit
 `src/` : QB64 source code `AGTC_anyGTa_2lite_V2-00.bas`<br>
 `bin/` : Compiled with QB64 32 bits, Windows executable `AGTC_anyGTa_2lite_V2-00.exe`
 
-Download this executable.
-Create an FFTab (Far Field Table) file with EZNEC or 4nec2.
-Run the executable.
+Download this executable.<br>
+Create an FFTab (Far Field Table) file with EZNEC or 4nec2.<br>
+Run the executable.<br>
 
 You will obtain the G/T ratio of your antenna.
 
