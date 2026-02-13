@@ -6,7 +6,7 @@ Look at <https://www.dg7ybn.de/Ant_soft/Antenna_GT_f5fod.htm> for further explan
 Here, you can get directly the **last versions** of the source and executable files.
 
 Note that the source file is very documented and has been translated in html/JavaScript in 2026: <https://github.com/f5fod/AGTC-JS>.
-If you need to recompile the file source, prefer QB64 **32 bits** as QB64 64 bits will give you smaller characters in the Console.
+If you need to recompile the source file, prefer QB64 **32 bits** as QB64 64 bits will give you smaller characters in the Console.
 
 ### How to use this *AGTC-QB64* program?
 `src/` : QB64 source code `AGTC_anyGTa_2lite_V2-00.bas`<br>
