@@ -1,5 +1,5 @@
 # AGTC-QB64
-## Antenna G/T Calculator
+## Antenna G/T Calculator written in QB64
 
 ### Origin
 Look at <https://www.dg7ybn.de/Ant_soft/Antenna_GT_f5fod.htm> for further explanations and to get access to the corresponding .bas and .exe files.
@@ -27,8 +27,3 @@ You will obtain the G/T ratio of your antenna.
 **Part 3:** A brief history of the *AGTC_lite/AGTC* project and some additional references, DUBUS, 3/2017
 
 **Part 4:** Thirty years ago, DJ9BV was 100% correct in his antenna *Effective Noise Temperatures* (…) calculation article; an important consequence for *AGTC_lite*, DUBUS, 4/2017
-
-
- 
-# AGTC-QB64
-AGTC written in Basic QB64
