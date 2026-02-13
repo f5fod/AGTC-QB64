@@ -9,7 +9,7 @@ Note that the source file is very documented and has been translated in html/Jav
 If you need to recompile the file source, prefer QB64 **32 bits** as QB64 64 bits will give you smaller characters in the Console.
 
 ### How to use this *AGTC-QB64* program?
-`src/` : QB64 source code `AGTC_anyGTa_2lite_V2-00.bas`
+`src/` : QB64 source code `AGTC_anyGTa_2lite_V2-00.bas`<br>
 `bin/` : Compiled with QB64 32 bits, Windows executable `AGTC_anyGTa_2lite_V2-00.exe`
 
 Download this executable.
