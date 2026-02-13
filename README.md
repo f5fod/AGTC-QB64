@@ -18,6 +18,9 @@ Run the executable.
 
 You will obtain the G/T ratio of your antenna.
 
+### Authors
+F5FOD with DG7YBN
+
 ### License CC BY-NC 4.0
 This license CC BY-NC enables reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator.
 Full text in the LICENSE file.
